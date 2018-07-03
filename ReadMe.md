@@ -1,6 +1,6 @@
 ### Apk 说明 ###
 
--示例Apk存储在Assets目录下
+- 示例Apk存储在Assets目录下
 - apk 所需图标已添加在 Drawable 目录下
 - apk 所需数据文件 (data) 已添加在 Assets 目录下
 - 请在两小时内完成测试
