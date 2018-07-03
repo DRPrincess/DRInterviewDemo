@@ -1,0 +1,84 @@
+{
+    "users": [
+        {
+            "username": "xiaoming1",
+            "userphone": "1500000001"
+        },
+        {
+            "username": "xiaoming2",
+            "userphone": "1500000002"
+        },
+        {
+            "username": "xiaoming3",
+            "userphone": "1500000003"
+        },
+        {
+            "username": "xiaoming4",
+            "userphone": "1500000004"
+        },
+        {
+            "username": "xiaoming5",
+            "userphone": "1500000005"
+        },
+        {
+            "username": "xiaoming6",
+            "userphone": "1500000006"
+        },
+        {
+            "username": "xiaoming7",
+            "userphone": "1500000007"
+        },
+        {
+            "username": "xiaoming8",
+            "userphone": "1500000008"
+        },
+        {
+            "username": "xiaoming9",
+            "userphone": "1500000009"
+        },
+        {
+            "username": "xiaoming10",
+            "userphone": "1500000010"
+        },
+        {
+            "username": "xiaoming11",
+            "userphone": "1500000011"
+        },
+        {
+            "username": "xiaoming12",
+            "userphone": "1500000012"
+        },
+        {
+            "username": "xiaoming13",
+            "userphone": "1500000013"
+        },
+        {
+            "username": "xiaoming14",
+            "userphone": "1500000014"
+        },
+        {
+            "username": "xiaoming15",
+            "userphone": "1500000015"
+        },
+        {
+            "username": "xiaoming16",
+            "userphone": "1500000016"
+        },
+        {
+            "username": "xiaoming17",
+            "userphone": "1500000017"
+        },
+        {
+            "username": "xiaoming18",
+            "userphone": "1500000018"
+        },
+        {
+            "username": "xiaoming19",
+            "userphone": "1500000019"
+        },
+        {
+            "username": "xiaoming20",
+            "userphone": "1500000020"
+        }
+    ]
+}
