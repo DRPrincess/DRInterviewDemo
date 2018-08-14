@@ -2,11 +2,11 @@
     "users": [
         {
             "username": "xiaoming1",
-            "userphone": "1500000001"
+            "userphone": "1504321001"
         },
         {
             "username": "xiaoming2",
-            "userphone": "1500000002"
+            "userphone": "1501234002"
         },
         {
             "username": "xiaoming3",
@@ -14,15 +14,15 @@
         },
         {
             "username": "xiaoming4",
-            "userphone": "1500000004"
+            "userphone": "1501334004"
         },
         {
             "username": "xiaoming5",
-            "userphone": "1500000005"
+            "userphone": "1505666005"
         },
         {
             "username": "xiaoming6",
-            "userphone": "1500000006"
+            "userphone": "1505678006"
         },
         {
             "username": "xiaoming7",
@@ -46,7 +46,7 @@
         },
         {
             "username": "xiaoming12",
-            "userphone": "1500000012"
+            "userphone": "1507890012"
         },
         {
             "username": "xiaoming13",
@@ -62,7 +62,7 @@
         },
         {
             "username": "xiaoming16",
-            "userphone": "1500000016"
+            "userphone": "1505677016"
         },
         {
             "username": "xiaoming17",
@@ -78,7 +78,7 @@
         },
         {
             "username": "xiaoming20",
-            "userphone": "1500000020"
+            "userphone": "1505555020"
         }
     ]
 }
